@@ -28,7 +28,8 @@ exports.config = {
     //
     specs: [
         // './test/specs/**/*.js'
-        "C:/Users/Pradeep/Desktop/demo_webdriverIO/test/specs/demo.js"
+        // "C:/Users/Pradeep/Desktop/demo_webdriverIO/test/specs/demo.js",
+        "C:/Users/Pradeep/Desktop/demo_webdriverIO/test/specs/example.e2e.js"
     ],
     suites:{
         smoke:["C:/Users/Pradeep/Desktop/demo_webdriverIO/test/specs/demo.js",
